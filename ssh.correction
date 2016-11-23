@@ -1,0 +1,2 @@
+$ scp simplonco@192.168.1.35:~/treasure.jpeg .
+$ scp my_own_treasure.jpeg simplonco@192.168.1.35:"~/Montreuil - Promo 5/"
